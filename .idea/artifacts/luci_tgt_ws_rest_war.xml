@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="luci-tgt-ws-rest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="LUCI-TGT-WS-REST-1.0.129.war">
+      <element id="artifact" artifact-name="luci-tgt-ws-rest:war exploded" />
+    </root>
+  </artifact>
+</component>

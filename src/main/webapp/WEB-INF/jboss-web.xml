@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jboss-web>
+  <context-root>/luciTgtWsRest</context-root>
+  <resource-ref>
+    <res-ref-name>JDBCLuci</res-ref-name>
+    <jndi-name>java:/tgtluci</jndi-name>
+  </resource-ref>
+
+</jboss-web>

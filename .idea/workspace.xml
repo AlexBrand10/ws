@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="luci-tgt-ws-rest:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d30daf0-161d-4c86-a908-298a83a32464" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>urlArchivoAdjunto</find>
+      <find>isValidData</find>
+      <find>continuaFolioComercio</find>
+      <find>registerPayment</find>
+      <find>sendEmailWihAttachments</find>
+      <find>Util.sendEmailWihAttachments</find>
+      <find>merge in</find>
+      <find>sysdate</find>
+      <find>sendGenericMail</find>
+      <find>sendFileExitus</find>
+      <find>reports</find>
+      <find>saveJsonToBD</find>
+      <find>tblbdexternas</find>
+      <find>idLogWebService</find>
+      <find>getFolioByIdCorporation</find>
+      <find>validar</find>
+      <find>tblcofetel</find>
+      <find>rename</find>
+      <find>requestGenericWs</find>
+      <find>getPosition</find>
+      <find>tbltelrechazadoshsbc</find>
+      <find>get</find>
+      <find>dicelementosprefvisita</find>
+      <find>Logger</find>
+      <find>isNumeric</find>
+      <find>IDWEBSERVICE = 72</find>
+      <find>consumeWsIpcom</find>
+      <find>insertLogWs</find>
+      <find>MOD(DECODE(COUNT(),0,-1,COUNT()),50)</find>
+      <find>TBLDOMICILIOS</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>e.printStackTrace();</replace>
+      <replace>QuerysDB.GET_ELEMENTS_WS</replace>
+      <replace>responseGenericWs</replace>
+      <replace>requestGenericWs</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/smsConvergiaController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/smsConvergiaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonS3/AmazonS3Controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/ComerceRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/InVoice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/Payment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/CommerceData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/CommerceResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/Plan.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/bandwire/BandwireRespuestasService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsMasivos/SmsMasivosService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/YopterController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/facturaDigital/FacturaDigitalService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ResponseGenericWs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/RequestGenericWs.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/Adjuntos.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/enviarAdjuntoWS/WSEnviarAdjuntoService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/enviarAdjuntoWS/WSEnviarAdjunto.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/CommerceRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/YopterService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/RequestGenericEmail.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/utilWS/WSUitl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/utilWS/WSUtilService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/SystemConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/IpcomRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/ipcom/IpcomService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/prospectador/ProspectadorController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ProspectadorRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/prospectador/ProspectadorService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/Util.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonSMS/AmazonSMSService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/banorteWS/BanorteVentasDiariasWSService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ClientInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/WsErrors.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ClientValue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfoController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/QuerysDB.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfoService.java" />
+        <option value="/opt/apache-tomcat-7.0.69/conf/context.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LUCI-TGT-WS-REST" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="LUCI-TGT-WS-REST" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="260" />
+    <option name="y" value="53" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="luciWS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="luci-tgt-ws-rest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="luci-tgt-ws-rest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/opt/apache-tomcat-7.0.69/conf/context.xml" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat Server 7.0.69" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.69" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="luci-tgt-ws-rest:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/luci-ws-rest" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_luci-tgt-ws-rest" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="HTTP_PORT" value="8181" />
+        <option name="JNDI_PORT" value="1090" />
+        <option name="PRESERVE_SESSIONS" value="true" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="34016" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d30daf0-161d-4c86-a908-298a83a32464" name="Default" comment="" />
+      <created>1518802618842</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518802618842</updated>
+      <workItem from="1518802620255" duration="242000" />
+      <workItem from="1518802935446" duration="13228000" />
+      <workItem from="1519054069696" duration="17125000" />
+      <workItem from="1519140481670" duration="2435000" />
+      <workItem from="1521762204261" duration="2108000" />
+      <workItem from="1522078089762" duration="74000" />
+      <workItem from="1523033311786" duration="1338000" />
+      <workItem from="1523284045142" duration="848000" />
+      <workItem from="1525293733095" duration="1093000" />
+      <workItem from="1525539712922" duration="515000" />
+      <workItem from="1525543861925" duration="786000" />
+      <workItem from="1525705109523" duration="1195000" />
+      <workItem from="1525707787476" duration="402000" />
+      <workItem from="1525906082067" duration="34000" />
+      <workItem from="1525977009624" duration="754000" />
+      <workItem from="1526425122360" duration="886000" />
+      <workItem from="1526494257677" duration="674000" />
+      <workItem from="1526571102048" duration="1283000" />
+      <workItem from="1526653594405" duration="1374000" />
+      <workItem from="1526912925496" duration="664000" />
+      <workItem from="1526935504137" duration="641000" />
+      <workItem from="1526999949201" duration="467000" />
+      <workItem from="1527259108194" duration="23256000" />
+      <workItem from="1527516384892" duration="20299000" />
+      <workItem from="1527603289122" duration="19509000" />
+      <workItem from="1527689818447" duration="7089000" />
+      <workItem from="1527776164439" duration="3743000" />
+      <workItem from="1528906367763" duration="16483000" />
+      <workItem from="1528988744851" duration="50000" />
+      <workItem from="1529332183205" duration="17505000" />
+      <workItem from="1529417413945" duration="4487000" />
+      <workItem from="1529503199846" duration="1248000" />
+      <workItem from="1529516365130" duration="103000" />
+      <workItem from="1529518033900" duration="4292000" />
+      <workItem from="1529536325306" duration="582000" />
+      <workItem from="1529604297420" duration="5432000" />
+      <workItem from="1529620905207" duration="350000" />
+      <workItem from="1530117936607" duration="13602000" />
+      <workItem from="1530196060741" duration="9761000" />
+      <workItem from="1530281425082" duration="26658000" />
+      <workItem from="1530548179449" duration="6848000" />
+      <workItem from="1530570961707" duration="393000" />
+      <workItem from="1530629778029" duration="7283000" />
+      <workItem from="1530714142915" duration="8172000" />
+      <workItem from="1530801794376" duration="1310000" />
+      <workItem from="1531406830696" duration="5554000" />
+      <workItem from="1531493119136" duration="1815000" />
+      <workItem from="1531506856611" duration="70000" />
+      <workItem from="1531508683630" duration="588000" />
+      <workItem from="1531509505662" duration="2867000" />
+      <workItem from="1531840654849" duration="631000" />
+      <workItem from="1533745523726" duration="9419000" />
+      <workItem from="1533825387893" duration="9791000" />
+      <workItem from="1533852639179" duration="187000" />
+      <workItem from="1533913617681" duration="7605000" />
+      <workItem from="1533923087781" duration="308000" />
+      <workItem from="1534344268415" duration="641000" />
+      <workItem from="1534524103381" duration="622000" />
+      <workItem from="1534529043348" duration="628000" />
+      <workItem from="1535474530398" duration="14712000" />
+      <workItem from="1535553367651" duration="425000" />
+      <workItem from="1535577522728" duration="3441000" />
+      <workItem from="1535640428085" duration="3525000" />
+      <workItem from="1535665273276" duration="3651000" />
+      <workItem from="1535726494424" duration="2909000" />
+      <workItem from="1535997237493" duration="613000" />
+      <workItem from="1537896543169" duration="5659000" />
+      <workItem from="1537972666149" duration="11821000" />
+      <workItem from="1540916079280" duration="9234000" />
+      <workItem from="1540998958865" duration="6059000" />
+      <workItem from="1541086892731" duration="766000" />
+      <workItem from="1541171632169" duration="651000" />
+      <workItem from="1541431754926" duration="440000" />
+      <workItem from="1547570832610" duration="15216000" />
+      <workItem from="1547652838707" duration="802000" />
+      <workItem from="1547658748887" duration="1509000" />
+      <workItem from="1550859297451" duration="1016000" />
+      <workItem from="1551372227299" duration="1223000" />
+      <workItem from="1551389493399" duration="660000" />
+      <workItem from="1551461607439" duration="1458000" />
+      <workItem from="1551475604422" duration="2993000" />
+      <workItem from="1551725569972" duration="691000" />
+      <workItem from="1551799694512" duration="1064000" />
+      <workItem from="1551812408353" duration="1319000" />
+      <workItem from="1551983842418" duration="4377000" />
+      <workItem from="1552666695787" duration="690000" />
+      <workItem from="1553037351088" duration="948000" />
+      <workItem from="1553102273082" duration="921000" />
+      <workItem from="1553119311391" duration="711000" />
+      <workItem from="1553182512658" duration="15628000" />
+      <workItem from="1553268521202" duration="44000" />
+      <workItem from="1553272993103" duration="1119000" />
+      <workItem from="1553619207992" duration="130000" />
+      <workItem from="1553621738087" duration="210000" />
+      <workItem from="1555005695357" duration="4646000" />
+      <workItem from="1555022682912" duration="551000" />
+      <workItem from="1555104600837" duration="799000" />
+      <workItem from="1555968213096" duration="2327000" />
+      <workItem from="1556140040416" duration="617000" />
+      <workItem from="1556233155510" duration="596000" />
+      <workItem from="1556289675893" duration="1845000" />
+      <workItem from="1556294441567" duration="631000" />
+    </task>
+    <task id="LOCAL-00009" summary="Se realiza el ajuste en el método addCommerce agregar la equivalencia en el número de sucursales.">
+      <created>1527630032131</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1527630032131</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Se realiza el ajuste al buscar el comercio.">
+      <created>1527635319568</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1527635319568</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Se agrega auditoria al actualizar el comercio.">
+      <created>1527697227698</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527697227698</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Se agrega el nuevo método getProspects (regresa el listado de los comercios asociados al id LuciUser).">
+      <created>1528915609383</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1528915609383</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Se agrega el dato folio dentro del json de peticion.">
+      <created>1528925780231</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1528925780231</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Se quita la validación del key en el método &quot;getProspects&quot;.">
+      <created>1528928733923</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1528928733923</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Se quita la validación del key en el método &quot;getProspects&quot;.">
+      <created>1528928781405</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1528928781405</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Se quita la validación del key en el método &quot;getProspects&quot;.">
+      <created>1528928813439</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1528928813439</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Se agrega la función continuaFolioComercio, que continua automáticamente el folio después de los métodos exitosos &quot;addCommerce&quot; y &quot;confirmPayment&quot;.">
+      <created>1529357038665</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1529357038665</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Se cambia a la versión 1.0.80.">
+      <created>1529358269001</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1529358269001</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Se agrega la validación de que el usuario sea un usuario vendedor en el método de &quot;authLuci&quot;.">
+      <created>1529432342030</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1529432342030</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Se realiza un ajuste al método de &quot;addCommerce&quot;, si no existe registro en tblanexossolicitud se agrega o se actualiza.">
+      <created>1529526440851</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1529526440851</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Se cambia a la versión 1.0.84.">
+      <created>1529536424278</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1529536424278</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Se cambia a la versión 1.0.85.&#10;Se agrega la referencia bancaria al momento de generar la factura o la nota de venta.">
+      <created>1530222818432</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1530222818432</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Se cambia a la versión 1.0.87.&#10;Se agrega el método sendGenericEmail.">
+      <created>1530312796835</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1530312796836</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Se cambia a la versión 1.0.88.&#10;Se agrega el atributo &quot;fechaCompromiso&quot; al json de petición método addOrUpdateCommerce.">
+      <created>1530570479670</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1530570479670</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Se realiza un ajuste al toString del json de petición adjuntos.">
+      <created>1530724345702</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1530724345702</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Se quita la impresión en consola.">
+      <created>1530728515855</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1530728515855</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Se desactiva el envio de copia de correo.">
+      <created>1531435053767</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1531435053768</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Se realiza un ajuste al xmlEntrada del json de peticion.">
+      <created>1531515589056</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1531515589056</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Se crea el servicio sendFileExitus, para escribir el archivo con los clientes demás de 50 años de edad.">
+      <created>1533762181732</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1533762181732</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Se crea el servicio sendFileExitus, para escribir el archivo con los clientes demás de 50 años de edad.">
+      <created>1533765482180</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1533765482180</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Se crea el servicio sendFileExitus, para escribir el archivo con los clientes demás de 50 años de edad.">
+      <created>1533828258191</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1533828258191</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Se crea el servicio sendFileExitus, para escribir el archivo con los clientes demás de 50 años de edad.">
+      <created>1533851246728</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1533851246728</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Se realiza ajuste al servicio sendFileExitus, se agrega el idemisor 17 HSBC y se conecta por medio del FTPClient.">
+      <created>1533921194499</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1533921194499</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Se cambia a la versión 1.0.93.">
+      <created>1533921239561</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1533921239561</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Se cambia a la versión 1.0.93.">
+      <created>1533921469842</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1533921469842</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Se cambia el nombre del archivo agregando horas y minutos.">
+      <created>1533922515927</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1533922515927</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Se codifica los insert de los registros al consumir &quot;zoom-calls&quot; en la tabla &quot;tbltelefoniarepzoomcalls&quot; de IPCOM v2.">
+      <created>1535494363270</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1535494363271</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Se cambia a la versión 1.0.94.">
+      <created>1535495766979</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1535495766979</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Se agrega la fechaEvento al método IPCOMV2- zoom_calls (idwebservice 91).">
+      <created>1535665535900</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1535665535900</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Se cambia a la versión 1.0.96.">
+      <created>1535727733953</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1535727733953</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Se implementa la función massive_dnc para agregar multiples teléfonos en IPCOM V2.">
+      <created>1537992515912</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1537992515912</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Se cambia a la versión 1.0.102.">
+      <created>1537992571479</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1537992571479</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Se codifica la solición de la tarea 1. Crear web service &quot;Prospectador&quot;.">
+      <created>1540941067808</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1540941067808</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Se cambia la secuencia y la versión 1.0.105.">
+      <created>1541005509813</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1541005509813</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Se implementa el teléfono de casa.">
+      <created>1541029721757</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1541029721757</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Se realizan ajustes al nuevo web service de Convergia">
+      <created>1547592091320</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1547592091320</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Se cambia a la versión 1.0.115.">
+      <created>1547598047074</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1547598047074</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Se cambia a la versión 1.0.120">
+      <created>1551993498127</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1551993498127</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Se agrega el servicio &quot;Consulta Información del Cliente&quot;.">
+      <created>1553196653616</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1553196653616</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Se agrega el servicio &quot;Consulta Información del Cliente&quot;.">
+      <created>1553205987621</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1553205987622</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Se cambia a la versión 1.0.122.">
+      <created>1553273194179</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1553273194179</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Se cambia a la versión 1.0.126.">
+      <created>1555005840033</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1555005840033</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Se cambia a la versión 1.0.126.">
+      <created>1555012947946</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1555012947946</updated>
+    </task>
+    <task id="LOCAL-00054" summary="Se cambia a la versión 1.0.126.">
+      <created>1555021218190</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1555021218190</updated>
+    </task>
+    <task id="LOCAL-00055" summary="Se cambia a la versión 1.0.127.">
+      <created>1555105606867</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1555105606868</updated>
+    </task>
+    <task id="LOCAL-00056" summary="Se cambia a la versión 1.0.128.">
+      <created>1556233213498</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1556233213498</updated>
+    </task>
+    <task id="LOCAL-00057" summary="Se cambia a la versión 1.0.129.">
+      <created>1556292118816</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1556292118817</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="415994000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39977974" sideWeight="0.50213903" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22941177" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.49786097" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3314978" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33920705" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38449198" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975771" sideWeight="0.49786097" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270925" sideWeight="0.49572194" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994652" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se quita la impresión en consola." />
+    <MESSAGE value="Se desactiva el envio de copia de correo." />
+    <MESSAGE value="Se realiza un ajuste al xmlEntrada del json de peticion." />
+    <MESSAGE value="Se crea el servicio sendFileExitus, para escribir el archivo con los clientes demás de 50 años de edad." />
+    <MESSAGE value="Se realiza ajuste al servicio sendFileExitus, se agrega el idemisor 17 HSBC y se conecta por medio del FTPClient." />
+    <MESSAGE value="Se cambia a la versión 1.0.93." />
+    <MESSAGE value="Se cambia el nombre del archivo agregando horas y minutos." />
+    <MESSAGE value="Se codifica los insert de los registros al consumir &quot;zoom-calls&quot; en la tabla &quot;tbltelefoniarepzoomcalls&quot; de IPCOM v2." />
+    <MESSAGE value="Se cambia a la versión 1.0.94." />
+    <MESSAGE value="Se agrega la fechaEvento al método IPCOMV2- zoom_calls (idwebservice 91)." />
+    <MESSAGE value="Se cambia a la versión 1.0.96." />
+    <MESSAGE value="Se implementa la función massive_dnc para agregar multiples teléfonos en IPCOM V2." />
+    <MESSAGE value="Se cambia a la versión 1.0.102." />
+    <MESSAGE value="Se codifica la solición de la tarea 1. Crear web service &quot;Prospectador&quot;." />
+    <MESSAGE value="Se cambia la secuencia y la versión 1.0.105." />
+    <MESSAGE value="Se implementa el teléfono de casa." />
+    <MESSAGE value="Se realizan ajustes al nuevo web service de Convergia" />
+    <MESSAGE value="Se cambia a la versión 1.0.115." />
+    <MESSAGE value="Se cambia a la versión 1.0.120" />
+    <MESSAGE value="Se agrega el servicio &quot;Consulta Información del Cliente&quot;." />
+    <MESSAGE value="Se cambia a la versión 1.0.122." />
+    <MESSAGE value="Se cambia a la versión 1.0.126." />
+    <MESSAGE value="Se cambia a la versión 1.0.127." />
+    <MESSAGE value="Se cambia a la versión 1.0.128." />
+    <MESSAGE value="Se cambia a la versión 1.0.129." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se cambia a la versión 1.0.129." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaController.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaService.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/utilWS/WSUtilService.java</url>
+          <line>278</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfoService.java</url>
+          <line>109</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="25" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/facturaDigital/model/Cfdi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="99" column="18" lean-forward="false" selection-start-line="99" selection-start-column="18" selection-end-line="99" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-java-sdk-core/1.11.313/aws-java-sdk-core-1.11.313.jar!/com/amazonaws/util/StringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="122" column="26" lean-forward="false" selection-start-line="122" selection-start-column="26" selection-end-line="122" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/enviarAdjuntoWS/PDFResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/enviarAdjuntoWS/WSEnviarAdjuntoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="67" column="7" lean-forward="false" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/facturaDigital/FacturaDigitalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/enviarAdjuntoWS/WSEnviarAdjunto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="236" column="55" lean-forward="false" selection-start-line="236" selection-start-column="55" selection-end-line="236" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ResponseGenericWs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/Adjuntos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/facturaDigital/FacturaDigitalService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="811">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/YopterRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/net/bull/javamelody/javamelody-core/1.70.0/javamelody-core-1.70.0.jar!/net/bull/javamelody/MonitoringFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2934">
+          <caret line="201" column="0" lean-forward="false" selection-start-line="201" selection-start-column="0" selection-end-line="201" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/CommerceData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/CommerceRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="73" column="33" lean-forward="false" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/YopterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/yopter/YopterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-262">
+          <caret line="51" column="14" lean-forward="true" selection-start-line="51" selection-start-column="14" selection-end-line="51" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/RequestGenericEmail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="69" column="28" lean-forward="false" selection-start-line="69" selection-start-column="28" selection-end-line="69" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///opt/java/jdk1.7.0_79/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35856">
+          <caret line="2043" column="23" lean-forward="false" selection-start-line="2043" selection-start-column="23" selection-end-line="2043" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/openpayWS/OpenPayWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/SystemConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ResponseWS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ProspectadorRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/prospectador/ProspectadorController.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/prospectador/ProspectadorService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonSMS/AmazonSMSRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="26" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonSMS/AmazonSMSController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="31" lean-forward="false" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonSMS/AmazonSMSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="21" column="52" lean-forward="false" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/smsConvergia/SmsConvergiaService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="42" column="36" lean-forward="false" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+          <folding>
+            <element signature="e#3774#3775#0" expanded="false" />
+            <element signature="e#3802#3803#0" expanded="false" />
+            <element signature="e#3844#3845#0" expanded="false" />
+            <element signature="e#3878#3879#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/utilWS/WSUitl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1548">
+          <caret line="104" column="0" lean-forward="false" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/RequestGenericWs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/ipcom/IpcomController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="38" column="40" lean-forward="false" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/googleMaps/GoogleMapsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="57" column="53" lean-forward="false" selection-start-line="57" selection-start-column="53" selection-end-line="57" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/utilWS/WSUtilService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3654">
+          <caret line="232" column="0" lean-forward="false" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/sun/jersey/jersey-core/1.9/jersey-core-1.9-sources.jar!/com/sun/jersey/core/util/MultivaluedMapImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="62" column="11" lean-forward="false" selection-start-line="62" selection-start-column="11" selection-end-line="62" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/IpcomRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfo.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/AmazonRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/WsErrors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/banorteWS/BanorteVentasDiariasWSService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ClientInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/domain/ClientValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="37" column="5" lean-forward="false" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/QuerysDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1278">
+          <caret line="71" column="0" lean-forward="false" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonS3/AmazonS3Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3978">
+          <caret line="247" column="32" lean-forward="false" selection-start-line="247" selection-start-column="12" selection-end-line="247" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/apache-tomcat-7.0.69/conf/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1854">
+          <caret line="103" column="64" lean-forward="false" selection-start-line="103" selection-start-column="64" selection-end-line="103" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfoController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1350">
+          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/consulta/ConsultaClienteInfoService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2016">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/amazonS3/AmazonS3Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="40" column="45" lean-forward="false" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/ipcom/IpcomService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="124" column="17" lean-forward="false" selection-start-line="124" selection-start-column="17" selection-end-line="124" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/a4sys/luciWS/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12744">
+          <caret line="752" column="25" lean-forward="false" selection-start-line="752" selection-start-column="25" selection-end-line="752" selection-end-column="25" />
+          <folding>
+            <marker date="1556290219467" expanded="true" signature="22246:22494" ph="insert into TBLLOGWEBSERVICES... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="18" lean-forward="false" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="41" lean-forward="true" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>luci-tgt-ws-rest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
